@@ -1,0 +1,1882 @@
+{
+    "Red": [
+        {
+            "Num": "R3",
+            "Station": "小港",
+            "Station_Eng": "Siaogang",
+            "Station_Jpn": "小港",
+            "Station_Kor": "샤오강",
+            "Station_SChi": "小港",
+            "GeoHash": "wsj86eybq",
+            "Toilet": [
+                4
+            ],
+            "Elevator": [
+                4
+            ],
+            "EscalatorUp": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "EscalatorDown": [
+                3
+            ],
+            "Bicycle": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "Exit": [
+                "wsj86exng",
+                "wsj86exw2",
+                "wsj86eyu9",
+                "wsj86ey9d"
+            ],
+            "ExitInfo": [
+                "中國鋼鐵公司",
+                "",
+                "中山國中、漢民國小、小港高中、社教館",
+                "二苓國小"
+            ]
+        },
+        {
+            "Num": "R4",
+            "Station": "高雄國際機場",
+            "Station_Eng": "Kaohsiung International Airport",
+            "Station_Jpn": "高雄国際機場",
+            "Station_Kor": "가오슝 국제공항",
+            "Station_SChi": "高雄国际机场",
+            "GeoHash": "wsj86ky0w",
+            "Toilet": [
+                2
+            ],
+            "Elevator": [
+                1,
+                6
+            ],
+            "EscalatorUp": [
+                1,
+                2,
+                5,
+                6
+            ],
+            "EscalatorDown": [
+                1,
+                2,
+                5,
+                6
+            ],
+            "Bicycle": [
+                1
+            ],
+            "AirPort": [
+                2,
+                6
+            ],
+            "Exit": [
+                "wsj86kxgs",
+                "wsj86kzeq",
+                "wsj86ky1n",
+                "wsj86kz0y",
+                "wsj86kvcr",
+                "wsj86kypj"
+            ],
+            "ExitInfo": [
+                "高雄公園、高雄空中大學",
+                "國內線、航警局",
+                "C區停車場",
+                "B區停車場",
+                "C區停車場",
+                "國際線",
+                "C區停車場"
+            ]
+        },
+        {
+            "Num": "R4A",
+            "Station": "草衙",
+            "Station_Eng": "Caoya",
+            "Station_Jpn": "草衙",
+            "Station_Kor": "차오야",
+            "Station_SChi": "草衙",
+            "GeoHash": "wsj86nss4",
+            "Toilet": [
+                1
+            ],
+            "Elevator": [
+                2,
+                3
+            ],
+            "EscalatorUp": [
+                1,
+                2,
+                3
+            ],
+            "EscalatorDown": [
+                4
+            ],
+            "Bicycle": [
+                1,
+                4
+            ],
+            "Exit": [
+                "wsj86nkwx",
+                "wsj86ntn3",
+                "wsj86nsdb",
+                "wsj86nsn7"
+            ],
+            "ExitInfo": [
+                "翠亨南路",
+                "高捷公司、高雄空廚",
+                "明正活動中心",
+                "明正國小"
+            ]
+        },
+        {
+            "Num": "R5",
+            "Station": "前鎮高中",
+            "Station_Eng": "Cianjhen Senior High School",
+            "Station_Jpn": "前鎮高中",
+            "Station_Kor": "첸전 공등학교",
+            "Station_SChi": "前镇高中",
+            "GeoHash": "wsj89bpe6",
+            "Toilet": [
+                1
+            ],
+            "Elevator": [
+                1,
+                2
+            ],
+            "EscalatorUp": [
+                1,
+                2
+            ],
+            "EscalatorDown": [
+                2
+            ],
+            "Bicycle": [
+                1
+            ],
+            "Exit": [
+                "wsj83zzxn",
+                "wsj8d00j2",
+                "wsj89bpjw"
+            ],
+            "ExitInfo": [
+                "前鎮高中、鎮安宮、前鎮國中、勞工局、前鎮區公所、地政事務所",
+                "福誠高中、五甲、五福國小、自強夜市、鳳山區農會、中崙社區",
+                "鎮昌國小、勞工局、前鎮高中、前鎮區公所、地政事務所"
+            ]
+        },
+        {
+            "Num": "R6",
+            "Station": "凱旋",
+            "Station_Eng": "Kaisyuan",
+            "Station_Jpn": "凱旋",
+            "Station_Kor": "카이쉬안",
+            "Station_SChi": "凯旋",
+            "GeoHash": "wsj89cdg9",
+            "Toilet": [
+                1
+            ],
+            "Elevator": [
+                1
+            ],
+            "EscalatorUp": [
+                1,
+                2,
+                3
+            ],
+            "EscalatorDown": [
+                1
+            ],
+            "Bicycle": [
+                1,
+                2,
+                3
+            ],
+            "Transformation": [
+                {
+                    "System": "LRT",
+                    "Exit": 1
+                }
+            ],
+            "Exit": [
+                "wsj89c6zw",
+                "wsj89ced2",
+                "wsj89cf0q"
+            ],
+            "ExitInfo": [
+                "無障礙之家、輕軌C3站",
+                "慈仁六村、高雄凱旋世貿",
+                "夢時代購物中心、時代大道"
+            ]
+        },
+        {
+            "Num": "R7",
+            "Station": "獅甲",
+            "Station_Eng": "Shihjia",
+            "Station_Jpn": "獅甲",
+            "Station_Kor": "스자",
+            "Station_SChi": "狮甲",
+            "GeoHash": "wsj89em9x",
+            "Toilet": [
+                4
+            ],
+            "Elevator": [
+                3
+            ],
+            "EscalatorUp": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "EscalatorDown": [
+                2
+            ],
+            "Bicycle": [
+                2,
+                3,
+                4
+            ],
+            "Exit": [
+                "wsj89ejy3",
+                "wsj89enpm",
+                "wsj89emt7",
+                "wsj89em78"
+            ],
+            "ExitInfo": [
+                "獅甲國中、台灣塑膠公司",
+                "前鎮游泳池",
+                "勞工公園、勞工教育生活中心",
+                "獅甲國小、美國在台協會"
+            ]
+        },
+        {
+            "Num": "R8",
+            "Station": "三多商圈",
+            "Station_Eng": "Sanduo Shopping District",
+            "Station_Jpn": "三多商圏",
+            "Station_Kor": "산둬상권",
+            "Station_SChi": "三多商圈",
+            "GeoHash": "wsj89sepu",
+            "Toilet": [
+                3
+            ],
+            "Elevator": [
+                2,
+                4
+            ],
+            "EscalatorUp": [
+                1,
+                3,
+                4,
+                6,
+                7
+            ],
+            "EscalatorDown": [
+                1,
+                4
+            ],
+            "Bicycle": [
+                2,
+                5,
+                6,
+                7
+            ],
+            "Exit": [
+                "wsj89sdgr",
+                "wsj89se4j",
+                "wsj89se6z",
+                "wsj89sex3",
+                "wsj89sg1m",
+                "wsj89sfuz",
+                "wsj89sfez"
+            ],
+            "ExitInfo": [
+                "大遠百百貨、85大樓",
+                "新光碼頭、大遠百百貨",
+                "獅甲公園、台新銀行",
+                "SOGO百貨、新光三越百貨",
+                "三多三路",
+                "生日公園",
+                "苓洲國小、四維公園、阮綜合醫院"
+            ]
+        },
+        {
+            "Num": "R9",
+            "Station": "中央公園",
+            "Station_Eng": "Central Park",
+            "Station_Jpn": "中央公園",
+            "Station_Kor": "중앙공원",
+            "Station_SChi": "中央公园",
+            "GeoHash": "wsj89w8xj",
+            "Toilet": [
+                1
+            ],
+            "Elevator": [
+                1
+            ],
+            "EscalatorUp": [
+                1,
+                2,
+                3
+            ],
+            "EscalatorDown": [
+                1,
+                2
+            ],
+            "Bicycle": [
+                1,
+                2,
+                3
+            ],
+            "Exit": [
+                "wsj89w8pe",
+                "wsj89w88n",
+                "wsj89wbvv"
+            ],
+            "ExitInfo": [
+                "中央公園、城市光廊",
+                "新興高中、原宿玉竹商圈、新堀江商圈、中央公園商圈",
+                "中華電信、新興國小"
+            ]
+        },
+        {
+            "Num": "R10",
+            "Station": "美麗島",
+            "Station_Eng": "Formosa Boulevard",
+            "Station_Jpn": "美麗島",
+            "Station_Kor": "메이리다오",
+            "Station_SChi": "美丽岛",
+            "GeoHash": "wsj89xcjr",
+            "Toilet": [
+                4,
+                7
+            ],
+            "Elevator": [
+                1,
+                3
+            ],
+            "EscalatorUp": [
+                1,
+                2,
+                3,
+                4,
+                6,
+                8
+            ],
+            "EscalatorDown": [
+                1,
+                2,
+                3,
+                4,
+                6,
+                8
+            ],
+            "Bicycle": [
+                2,
+                5,
+                6,
+                7,
+                9,
+                10
+            ],
+            "Exit": [
+                "wsj89xbz6",
+                "wsj89xbft",
+                "wsj89xcd8",
+                "wsj89xcxe",
+                "wsj89xf79",
+                "wsj89xfg7",
+                "wsj89xfm7",
+                "wsj89xfuy",
+                "wsj8c814u",
+                "wsj8c816u",
+                "wsj8c81jt"
+            ],
+            "ExitInfo": [
+                "喜餅街、華南銀行、六合觀光夜市",
+                "大同國小、第一銀行、惠仁醫院",
+                "警察局、南華夜市、中華電信",
+                "中山路婚紗區",
+                "高雄郵局、南華夜市",
+                "南華夜市",
+                "中正路婚紗區",
+                "土地銀行、中華電信",
+                "台灣人壽、中山橫路",
+                "高雄二信、六合一路",
+                "台灣企銀、六合夜市"
+            ]
+        },
+        {
+            "Num": "R11",
+            "Station": "高雄車站",
+            "Station_Eng": "Kaohsiung Main Station",
+            "Station_Jpn": "高雄駅",
+            "Station_Kor": "가오슝 역",
+            "Station_SChi": "高雄车站",
+            "GeoHash": "wsj8c93vb",
+            "Toilet": [
+                1
+            ],
+            "Elevator": [
+                1
+            ],
+            "EscalatorUp": [
+                2
+            ],
+            "EscalatorDown": [
+                2
+            ],
+            "Bicycle": [
+                1
+            ],
+            "Transformation": [
+                {
+                    "System": "TRA",
+                    "Exit": 1
+                }
+            ],
+            "Exit": [
+                "wsj8c91st"
+            ],
+            "ExitInfo": [
+                "高雄火車站、願景館"
+            ]
+        },
+        {
+            "Num": "R12",
+            "Station": "後驛",
+            "Station_Eng": "Houyi",
+            "Station_Jpn": "後驛",
+            "Station_Kor": "허우이",
+            "Station_SChi": "后驿",
+            "GeoHash": "wsj8ce430",
+            "Toilet": [
+                2
+            ],
+            "Elevator": [
+                2
+            ],
+            "EscalatorUp": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "EscalatorDown": [],
+            "Bicycle": [
+                1,
+                2,
+                3
+            ],
+            "Exit": [
+                "wsj8cdfj1",
+                "wsj8cdfkv",
+                "wsj8ce47z",
+                "wsj8ce4jh"
+            ],
+            "ExitInfo": [
+                "十全國小、三民區行政中心",
+                "三民公園、三民國中、高雄醫學大學",
+                "愛河之心、土地銀行",
+                "高雄銀行、綏遠二街、愛河之心"
+            ]
+        },
+        {
+            "Num": "R13",
+            "Station": "凹子底",
+            "Station_Eng": "Aozaidi",
+            "Station_Jpn": "凹子底駅",
+            "Station_Kor": "아우찌디",
+            "Station_SChi": "凹子底",
+            "GeoHash": "wsj8csdhh",
+            "Toilet": [
+                1
+            ],
+            "Elevator": [
+                1,
+                4
+            ],
+            "EscalatorUp": [
+                1,
+                2,
+                4
+            ],
+            "EscalatorDown": [
+                1,
+                4
+            ],
+            "Bicycle": [
+                3,
+                4
+            ],
+            "Exit": [
+                "wsj8cs9fu",
+                "wsj8csd68",
+                "wsj8csf05",
+                "wsj8cscse"
+            ],
+            "ExitInfo": [
+                "龍華國小、彰化銀行、輕軌C24站",
+                "自由時報、大順加油站、博愛蕙馨醫院",
+                "博田醫院",
+                "明華國中、高等法院"
+            ]
+        },
+        {
+            "Num": "R14",
+            "Station": "巨蛋",
+            "Station_Eng": "Kaohsiung Arena",
+            "Station_Jpn": "巨蛋",
+            "Station_Kor": "가우슝 아레나",
+            "Station_SChi": "巨蛋",
+            "GeoHash": "wsj8cw4pz",
+            "Toilet": [
+                2,
+                4
+            ],
+            "Elevator": [
+                2
+            ],
+            "EscalatorUp": [
+                1,
+                2,
+                4,
+                5
+            ],
+            "EscalatorDown": [
+                2,
+                5
+            ],
+            "Bicycle": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "Exit": [
+                "wsj8cw1wr",
+                "wsj8cw1ur",
+                "wsj8cw615",
+                "wsj8cw675",
+                "wsj8cw65g"
+            ],
+            "ExitInfo": [
+                "三民家商",
+                "明誠公園",
+                "三民家商",
+                "聯上大飯店",
+                "高雄巨蛋、漢神巨蛋"
+            ]
+        },
+        {
+            "Num": "R15",
+            "Station": "生態園區",
+            "Station_Eng": "Ecological District",
+            "Station_Jpn": "生態園区",
+            "Station_Kor": "생태 공원",
+            "Station_SChi": "生态园区",
+            "GeoHash": "wsj918ht7",
+            "Toilet": [
+                2
+            ],
+            "Elevator": [
+                2
+            ],
+            "EscalatorUp": [
+                1,
+                2
+            ],
+            "EscalatorDown": [
+                2
+            ],
+            "Bicycle": [
+                1,
+                2
+            ],
+            "Exit": [
+                "wsj918h92",
+                "wsj918k9h"
+            ],
+            "ExitInfo": [
+                "孟子路、崇德路",
+                "博愛公園、左營國中"
+            ]
+        },
+        {
+            "Num": "R16",
+            "Station": "左營",
+            "Station_Eng": "Zuoying",
+            "Station_Jpn": "左営",
+            "Station_Kor": "쭤잉",
+            "Station_SChi": "左营",
+            "GeoHash": "wsj91dq32",
+            "Toilet": [
+                1
+            ],
+            "Elevator": [
+                1,
+                2
+            ],
+            "EscalatorUp": [
+                1,
+                2
+            ],
+            "EscalatorDown": [
+                1,
+                2
+            ],
+            "Bicycle": [
+                1,
+                2
+            ],
+            "Transformation": [
+                {
+                    "System": "THSR",
+                    "Exit": 1
+                },
+                {
+                    "System": "TRA",
+                    "Exit": 2
+                }
+            ],
+            "Exit": [
+                "wsj91dnhf",
+                "wsj91dm6x"
+            ],
+            "ExitInfo": [
+                "高鐵左營站、扶輪公園",
+                "台鐵新左營站、蓮池潭"
+            ]
+        },
+        {
+            "Num": "R17",
+            "Station": "世運",
+            "Station_Eng": "World Games",
+            "Station_Jpn": "世運",
+            "Station_Kor": "월드 게임",
+            "Station_SChi": "世运",
+            "GeoHash": "wsj91s9xu",
+            "Toilet": [
+                3,
+                4
+            ],
+            "Elevator": [
+                2,
+                4
+            ],
+            "EscalatorUp": [
+                1,
+                3
+            ],
+            "EscalatorDown": [
+                1,
+                3
+            ],
+            "Bicycle": [
+                1,
+                2
+            ],
+            "Exit": [
+                "wsj91s9s3",
+                "wsj91sc88",
+                "wsj91s9u2",
+                "wsj91s9z2"
+            ],
+            "ExitInfo": [
+                "世運主場館、國軍高雄總醫院左營分院",
+                "煉油廠宿舍",
+                "高雄煉油廠、半屏山",
+                "高雄煉油廠、左楠路(東)"
+            ]
+        },
+        {
+            "Num": "R18",
+            "Station": "油廠國小",
+            "Station_Eng": "Oil Refinery Elementary School",
+            "Station_Jpn": "油廠国小",
+            "Station_Kor": "기름 공장 초등학교",
+            "Station_SChi": "油厂国小",
+            "GeoHash": "wsj91w12z",
+            "Toilet": [
+                1
+            ],
+            "Elevator": [
+                1
+            ],
+            "EscalatorUp": [
+                1,
+                3
+            ],
+            "EscalatorDown": [
+                1,
+                3
+            ],
+            "Bicycle": [
+                1,
+                2
+            ],
+            "Exit": [
+                "wsj91tcm4",
+                "wsj91w131",
+                "wsj91tct5",
+                "wsj91w194"
+            ],
+            "ExitInfo": [
+                "油廠教會、國光聯合診所",
+                "國光新村、煉油廠宿舍",
+                "高雄煉油廠、中山附中",
+                "煉油廠宿舍、油廠國小"
+            ]
+        },
+        {
+            "Num": "R19",
+            "Station": "楠梓加工區",
+            "Station_Eng": "Nanzih Export Processing Zone",
+            "Station_Jpn": "楠梓加工区",
+            "Station_Kor": "난쯔 가공구",
+            "Station_SChi": "楠梓加工区",
+            "GeoHash": "wsj91xv19",
+            "Toilet": [
+                1
+            ],
+            "Elevator": [
+                1
+            ],
+            "EscalatorUp": [
+                1,
+                3,
+                5
+            ],
+            "EscalatorDown": [
+                1
+            ],
+            "Bicycle": [
+                1,
+                2
+            ],
+            "Exit": [
+                "wsj91xu2t",
+                "wsj91xsrz",
+                "wsj91xv1d",
+                "wsj91xvdc",
+                "wsj91xvkn",
+                "wsj91xvse"
+            ],
+            "ExitInfo": [
+                "楠梓加工出口區",
+                "宏毅新村",
+                "宏毅三路",
+                "後勁農會、後勁夜市",
+                "楠梓加工出口區",
+                "加工區育樂中心"
+            ]
+        },
+        {
+            "Num": "R20",
+            "Station": "後勁",
+            "Station_Eng": "Houjing",
+            "Station_Jpn": "後勁",
+            "Station_Kor": "허우징",
+            "Station_SChi": "后劲",
+            "GeoHash": "wsj93b7xn",
+            "Toilet": [
+                2
+            ],
+            "Elevator": [
+                2
+            ],
+            "EscalatorUp": [
+                1,
+                2,
+                3
+            ],
+            "EscalatorDown": [
+                3
+            ],
+            "Bicycle": [
+                1
+            ],
+            "Exit": [
+                "wsj93b7xu",
+                "wsj93bs13",
+                "wsj93bkpg"
+            ],
+            "ExitInfo": [
+                "後勁國中",
+                "高科大（楠梓校區）",
+                "後勁活動中心、高雄煉油廠"
+            ]
+        },
+        {
+            "Num": "R21",
+            "Station": "都會公園",
+            "Station_Eng": "Metropolitan Park",
+            "Station_Jpn": "都会公園",
+            "Station_Kor": "메트로포리탄 공원",
+            "Station_SChi": "都会公园",
+            "GeoHash": "wsj93cz14",
+            "Toilet": [
+                2
+            ],
+            "Elevator": [
+                1
+            ],
+            "EscalatorUp": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "EscalatorDown": [
+                2,
+                4
+            ],
+            "Bicycle": [
+                3,
+                4
+            ],
+            "Exit": [
+                "wsj93cxh8",
+                "wsj93cxm1",
+                "wsj93czh4",
+                "wsj93cyg2"
+            ],
+            "ExitInfo": [
+                "高雄捐血中心",
+                "楠梓火車站、楠梓區公所、代天府",
+                "青埔街",
+                "交通部公路總局、高雄市區監理所、都會公園、海洋國家公園管理處"
+            ]
+        },
+        {
+            "Num": "R22",
+            "Station": "青埔",
+            "Station_Eng": "Cingpu",
+            "Station_Jpn": "青埔",
+            "Station_Kor": "칭푸",
+            "Station_SChi": "青埔",
+            "GeoHash": "wsj93ukxr",
+            "Toilet": [
+                1
+            ],
+            "Elevator": [
+                1
+            ],
+            "EscalatorUp": [
+                1
+            ],
+            "EscalatorDown": [
+                1
+            ],
+            "Bicycle": [
+                1
+            ],
+            "Exit": [
+                "wsj93ukem"
+            ],
+            "ExitInfo": [
+                "台糖農園、橋頭新市鎮"
+            ]
+        },
+        {
+            "Num": "R22A",
+            "Station": "橋頭糖廠",
+            "Station_Eng": "Ciaotou Sugar Refinery",
+            "Station_Jpn": "橋頭糖廠",
+            "Station_Kor": "차오터우 설탕 공장",
+            "Station_SChi": "桥头糖厂",
+            "GeoHash": "wsj93y4mj",
+            "Toilet": [
+                3
+            ],
+            "Elevator": [
+                1,
+                3
+            ],
+            "EscalatorUp": [
+                1
+            ],
+            "EscalatorDown": [],
+            "Bicycle": [
+                1
+            ],
+            "Exit": [
+                "wsj93y42h",
+                "wsj93y4d8",
+                "wsj93y496"
+            ],
+            "ExitInfo": [
+                "橋頭區農會、仕隆國小",
+                "中山堂、興糖國小",
+                "興糖國小、五分車乘車處"
+            ]
+        },
+        {
+            "Num": "R23",
+            "Station": "橋頭火車站",
+            "Station_Eng": "Ciaotou Station",
+            "Station_Jpn": "橋頭駅",
+            "Station_Kor": "차오터우 기차역",
+            "Station_SChi": "桥头火车站",
+            "GeoHash": "wsj93xrwv",
+            "Toilet": [
+                2
+            ],
+            "Elevator": [
+                1,
+                2
+            ],
+            "EscalatorUp": [
+                1,
+                2
+            ],
+            "EscalatorDown": [
+                2
+            ],
+            "Bicycle": [
+                2
+            ],
+            "Transformation": [
+                {
+                    "System": "TRA",
+                    "Exit": 2
+                }
+            ],
+            "Exit": [
+                "wsj93xrfr",
+                "wsj93xrpv"
+            ],
+            "ExitInfo": [
+                "橋頭糖廠、橋燕路、十鼓橋糖文創園區",
+                "台鐵剪票口、成功路、橋頭國小、橋頭國中、橋頭區公所、台電服務所、站前街、橋頭路、糖北路"
+            ]
+        },
+        {
+            "Num": "R24",
+            "Station": "南岡山",
+            "Station_Eng": "Gangshan South",
+            "Station_Jpn": "南岡山",
+            "Station_Kor": "남 강산",
+            "Station_SChi": "南冈山",
+            "GeoHash": "wsj99e14u",
+            "Toilet": [
+                1
+            ],
+            "Elevator": [
+                1,
+                2
+            ],
+            "EscalatorUp": [
+                1
+            ],
+            "EscalatorDown": [
+                1
+            ],
+            "Bicycle": [
+                2
+            ],
+            "Exit": [
+                "wsj99e09y",
+                "wsj99e15m"
+            ],
+            "ExitInfo": [
+                "岡山文化中心、中山南路、岡山南路、中山南路、劉厝公園",
+                "崙子頂路、和平國小"
+            ]
+        }
+    ],
+    "Orange": [
+        {
+            "Num": "O1",
+            "Station": "西子灣",
+            "Station_Eng": "Sizihwan",
+            "Station_Jpn": "西子湾",
+            "Station_Kor": "시쯔완",
+            "Station_SChi": "西子湾",
+            "GeoHash": "wsj88yj5x",
+            "Toilet": [
+                2
+            ],
+            "Elevator": [
+                1
+            ],
+            "EscalatorUp": [
+                1,
+                2
+            ],
+            "EscalatorDown": [
+                1,
+                2
+            ],
+            "Bicycle": [
+                1,
+                2
+            ],
+            "Transformation": [
+                {
+                    "System": "LRT",
+                    "Exit": 2
+                }
+            ],
+            "Exit": [
+                "wsj88yhqv",
+                "wsj88yjuh"
+            ],
+            "ExitInfo": [
+                "鼓山渡輪站、鼓山郵局、中山大學",
+                "高雄海關、香蕉碼頭、棧二庫、輕軌C14站"
+            ]
+        },
+        {
+            "Num": "O2",
+            "Station": "鹽埕埔",
+            "Station_Eng": "Yanchengpu",
+            "Station_Jpn": "塩埕埔",
+            "Station_Kor": "옌청푸",
+            "Station_SChi": "盐埕埔",
+            "GeoHash": "wsj89ns15",
+            "Toilet": [
+                1
+            ],
+            "Elevator": [
+                2
+            ],
+            "EscalatorUp": [
+                1,
+                2,
+                3
+            ],
+            "EscalatorDown": [
+                2,
+                3
+            ],
+            "Bicycle": [
+                1
+            ],
+            "Exit": [
+                "wsj89n7y0",
+                "wsj89nsmp",
+                "wsj89ns4y",
+                "wsj89ns08"
+            ],
+            "ExitInfo": [
+                "駁二藝術特區、鹽埕國小、真愛碼頭、堀江商場",
+                "歷史博物館、光榮國小、鹽埕國中、高雄國際會議中心、愛河、電影圖書館",
+                "光榮國小、鹽埕國中",
+                "忠孝國小、壽山動物園"
+            ]
+        },
+        {
+            "Num": "O4",
+            "Station": "市議會（舊址）",
+            "Station_Eng": "City Council (Former Site)",
+            "Station_Jpn": "市議会（舊址）",
+            "Station_Kor": "시의회（옛 터）",
+            "Station_SChi": "市议会（旧址）",
+            "GeoHash": "wsj89r7zp",
+            "Toilet": [
+                1
+            ],
+            "Elevator": [
+                1
+            ],
+            "EscalatorUp": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "EscalatorDown": [
+                1,
+                4
+            ],
+            "Bicycle": [
+                1,
+                4
+            ],
+            "Exit": [
+                "wsj89re0n",
+                "wsj89r77b",
+                "wsj89rkrt",
+                "wsj89rs35"
+            ],
+            "ExitInfo": [
+                "廉政署南部地區調查組",
+                "愛河、地方法院、前金區行政中心",
+                "大同國小",
+                "六合觀光夜市"
+            ]
+        },
+        {
+            "Num": "O5",
+            "Station": "美麗島",
+            "Station_Eng": "Formosa Boulevard",
+            "Station_Jpn": "美麗島",
+            "Station_Kor": "메이리다오",
+            "Station_SChi": "美丽岛",
+            "GeoHash": "wsj89xcjr",
+            "Toilet": [
+                4,
+                7
+            ],
+            "Elevator": [
+                1,
+                3
+            ],
+            "EscalatorUp": [
+                1,
+                2,
+                3,
+                4,
+                6,
+                8
+            ],
+            "EscalatorDown": [
+                1,
+                2,
+                3,
+                4,
+                6,
+                8
+            ],
+            "Bicycle": [
+                2,
+                5,
+                6,
+                7,
+                9,
+                10
+            ],
+            "Exit": [
+                "wsj89xbz6",
+                "wsj89xbft",
+                "wsj89xcd8",
+                "wsj89xcxe",
+                "wsj89xf79",
+                "wsj89xfg7",
+                "wsj89xfm7",
+                "wsj89xfuy",
+                "wsj8c814u",
+                "wsj8c816u",
+                "wsj8c81jt"
+            ],
+            "ExitInfo": [
+                "喜餅街、華南銀行、六合觀光夜市",
+                "大同國小、第一銀行、惠仁醫院",
+                "警察局、南華夜市、中華電信",
+                "中山路婚紗區",
+                "高雄郵局、南華夜市",
+                "南華夜市",
+                "中正路婚紗區",
+                "土地銀行、中華電信",
+                "台灣人壽、中山橫路",
+                "高雄二信、六合一路",
+                "台灣企銀、六合夜市"
+            ]
+        },
+        {
+            "Num": "O6",
+            "Station": "信義國小",
+            "Station_Eng": "Sinyi Elementary School",
+            "Station_Jpn": "信義国小",
+            "Station_Kor": "신이 초등학교",
+            "Station_SChi": "信义国小",
+            "GeoHash": "wsj89zb14",
+            "Toilet": [
+                1
+            ],
+            "Elevator": [
+                2
+            ],
+            "EscalatorUp": [
+                1,
+                3,
+                4,
+                5
+            ],
+            "EscalatorDown": [],
+            "Bicycle": [
+                1,
+                5
+            ],
+            "Exit": [
+                "wsj89xzdb",
+                "wsj89zb48",
+                "wsj89xz2y",
+                "wsj89zb8k",
+                "wsj89zbcb"
+            ],
+            "ExitInfo": [
+                "新興區行政中心、逍遙園",
+                "信義國小",
+                "財稅大樓、新興區衛生所",
+                "鼎新公園、五福國中",
+                "中正三路與民族二路交叉"
+            ]
+        },
+        {
+            "Num": "O7",
+            "Station": "文化中心",
+            "Station_Eng": "Cultual Center",
+            "Station_Jpn": "文化中心",
+            "Station_Kor": "문화중심",
+            "Station_SChi": "文化中心",
+            "GeoHash": "wsj89zsws",
+            "Toilet": [
+                3
+            ],
+            "Elevator": [
+                3
+            ],
+            "EscalatorUp": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "EscalatorDown": [
+                3,
+                4
+            ],
+            "Bicycle": [
+                2,
+                3
+            ],
+            "Exit": [
+                "wsj89zgbn",
+                "wsj89zsnt",
+                "wsj89ztht",
+                "wsj89ztpy"
+            ],
+            "ExitInfo": [
+                "尚信街",
+                "五福國中、自來水公園",
+                "文化中心、高雄師範大學、師大附中",
+                ""
+            ]
+        },
+        {
+            "Num": "O8",
+            "Station": "五塊厝",
+            "Station_Eng": "Wukuaicuo",
+            "Station_Jpn": "五塊厝",
+            "Station_Kor": "우콰이춰",
+            "Station_SChi": "五块厝",
+            "GeoHash": "wsj8dpecz",
+            "Toilet": [
+                4
+            ],
+            "Elevator": [
+                4
+            ],
+            "EscalatorUp": [
+                1,
+                3,
+                4,
+                6
+            ],
+            "EscalatorDown": [
+                4
+            ],
+            "Bicycle": [
+                2,
+                4
+            ],
+            "Transformation": [
+                {
+                    "System": "LRT",
+                    "Exit": 3
+                }
+            ],
+            "Exit": [
+                "wsj8dpe7v",
+                "wsj8dpeex",
+                "wsj8dpe66",
+                "wsj8dps08",
+                "wsj8dps5m",
+                "wsj8dps9v"
+            ],
+            "ExitInfo": [
+                "正言郵局",
+                "中正一路與福德二路交叉口",
+                "中華市場、高雄市衛生局、台灣中小企業銀行、中醫醫院、輕軌C32站",
+                "五塊厝公園、司法新村",
+                "大仁國中",
+                "關帝廟"
+            ]
+        },
+        {
+            "Num": "O9",
+            "Station": "技擊館",
+            "Station_Eng": "Martial Arts Stadium",
+            "Station_Jpn": "技撃館",
+            "Station_Kor": "기격관",
+            "Station_SChi": "技击馆",
+            "GeoHash": "wsj8dr1hb",
+            "Toilet": [
+                1
+            ],
+            "Elevator": [
+                1,
+                3
+            ],
+            "EscalatorUp": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "EscalatorDown": [
+                1,
+                3,
+                4
+            ],
+            "Bicycle": [
+                1,
+                2
+            ],
+            "Exit": [
+                "wsj8dr22m",
+                "wsj8dr0s9",
+                "wsj8dr14z",
+                "wsj8dr1mc"
+            ],
+            "ExitInfo": [
+                "中正技擊館（西）、中正國小",
+                "中正壘球場、青少年運動公園、行政院南部聯合服務中心、法務部行政執行署高雄分署",
+                "中正體育場、中正公園",
+                "中正技擊館（東）、中正高中"
+            ]
+        },
+        {
+            "Num": "O10",
+            "Station": "衛武營",
+            "Station_Eng": "Weiwuying",
+            "Station_Jpn": "衛武営",
+            "Station_Kor": "웨이우잉",
+            "Station_SChi": "卫武营",
+            "GeoHash": "wsj8dqv8m",
+            "Toilet": [
+                2
+            ],
+            "Elevator": [
+                4,
+                5,
+                6
+            ],
+            "EscalatorUp": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "EscalatorDown": [
+                6
+            ],
+            "Bicycle": [
+                3,
+                4,
+                5
+            ],
+            "Exit": [
+                "wsj8dqv5x",
+                "wsj8dqv0v",
+                "wsj8dqtx5",
+                "wsj8dqy2f",
+                "wsj8dqy8p",
+                "wsj8dqtg4"
+            ],
+            "ExitInfo": [
+                "國軍高雄總醫院、中正高中",
+                "中正公園",
+                "中正公園",
+                "高雄市農會",
+                "鳳山行政中心",
+                "衛武營國家藝術文化中心、衛武營都會公園"
+            ]
+        },
+        {
+            "Num": "O11",
+            "Station": "鳳山西站（高雄市議會）",
+            "Station_Eng": "Fongshan West (Kaohsiung City Council)",
+            "Station_Jpn": "鳳山西駅（高雄市議会）",
+            "Station_Kor": "펑산 서역（가우슝 시의회）",
+            "Station_SChi": "凤山西站（高雄市议会）",
+            "GeoHash": "wsj8dwfcf",
+            "Toilet": [
+                1
+            ],
+            "Elevator": [
+                2
+            ],
+            "EscalatorUp": [
+                1,
+                2
+            ],
+            "EscalatorDown": [],
+            "Bicycle": [
+                2
+            ],
+            "Exit": [
+                "wsj8dwf21",
+                "wsj8dwg90"
+            ],
+            "ExitInfo": [
+                "高雄市議會、忠孝國中",
+                "自治兒童公園"
+            ]
+        },
+        {
+            "Num": "O12",
+            "Station": "鳳山",
+            "Station_Eng": "Fongshan",
+            "Station_Jpn": "鳳山",
+            "Station_Kor": "펑산",
+            "Station_SChi": "凤山",
+            "GeoHash": "wsj8dwzvw",
+            "Toilet": [
+                2
+            ],
+            "Elevator": [
+                2
+            ],
+            "EscalatorUp": [
+                1,
+                2
+            ],
+            "EscalatorDown": [
+                1
+            ],
+            "Bicycle": [
+                1
+            ],
+            "Exit": [
+                "wsj8dybt9",
+                "wsj8dybrp"
+            ],
+            "ExitInfo": [
+                "鳳山國小、澄瀾砲台、鳳山體育場、勞工保險局、鳳山第一公有市場、鳳山第二公有市場、三民路商圈",
+                "鳳山火車站、曹公國小、鳳儀書院"
+            ]
+        },
+        {
+            "Num": "O13",
+            "Station": "大東",
+            "Station_Eng": "Dadong",
+            "Station_Jpn": "大東",
+            "Station_Kor": "다둥",
+            "Station_SChi": "大东",
+            "GeoHash": "wsj8dyy10",
+            "Toilet": [
+                1
+            ],
+            "Elevator": [
+                1
+            ],
+            "EscalatorUp": [
+                1,
+                2
+            ],
+            "EscalatorDown": [
+                1
+            ],
+            "Bicycle": [
+                1,
+                2
+            ],
+            "Exit": [
+                "wsj8dyy4g",
+                "wsj8dyv98"
+            ],
+            "ExitInfo": [
+                "鳳山轉運站",
+                "大東文化藝術中心、大東文化藝術中心、鳳山第一公有市場、鳳山第二公有市場、三民路商圈"
+            ]
+        },
+        {
+            "Num": "O14",
+            "Station": "鳳山國中",
+            "Station_Eng": "Fongshan Junior High School",
+            "Station_Jpn": "鳳山国中",
+            "Station_Kor": "펑산 중학교",
+            "Station_SChi": "凤山国中",
+            "GeoHash": "wsj8ensxq",
+            "Toilet": [
+                1
+            ],
+            "Elevator": [
+                1
+            ],
+            "EscalatorUp": [
+                1,
+                2,
+                3
+            ],
+            "EscalatorDown": [
+                1,
+                3
+            ],
+            "Bicycle": [
+                1,
+                3
+            ],
+            "Exit": [
+                "wsj8enewr",
+                "wsj8ens5b",
+                "wsj8env2e"
+            ],
+            "ExitInfo": [
+                "鳳山國中、瑞竹兒童公園",
+                "陸軍軍官學校、鳳山郵局",
+                "中正國小、鳳山農會"
+            ]
+        },
+        {
+            "Num": "OT1",
+            "Station": "大寮",
+            "Station_Eng": "Daliao",
+            "Station_Jpn": "大寮",
+            "Station_Kor": "다랴오",
+            "Station_SChi": "大寮",
+            "GeoHash": "wsj8ew1xq",
+            "Toilet": [
+                2
+            ],
+            "Elevator": [
+                1,
+                2
+            ],
+            "EscalatorUp": [
+                1,
+                2
+            ],
+            "EscalatorDown": [],
+            "Bicycle": [
+                1
+            ],
+            "Exit": [
+                "wsj8ew1dx",
+                "wsj8ew4dg"
+            ],
+            "ExitInfo": [
+                "中興里",
+                "前庄里"
+            ]
+        }
+    ],
+    "Circle": [
+        {
+            "Num": "C1",
+            "Station": "籬仔內",
+            "Station_Eng": "Lizihnei",
+            "Station_Jpn": "籬仔内",
+            "Station_Kor": "리쯔네이",
+            "Station_SChi": "篱仔内",
+            "GeoHash": "wsj8d519r"
+        },
+        {
+            "Num": "C2",
+            "Station": "凱旋瑞田",
+            "Station_Eng": "Kaisyuan Rueitian",
+            "Station_Jpn": "凱旋瑞田",
+            "Station_Kor": "카이쉬안루이톈",
+            "Station_SChi": "凯旋瑞田",
+            "GeoHash": "wsj89fn5y"
+        },
+        {
+            "Num": "C3",
+            "Station": "前鎮之星",
+            "Station_Eng": "Cianjhen Star",
+            "Station_Jpn": "前鎮之星",
+            "Station_Kor": "첸전즈싱",
+            "Station_SChi": "前镇之星",
+            "GeoHash": "wsj89c6ur",
+            "Transformation": [
+                {
+                    "System": "MRT"
+                }
+            ]
+        },
+        {
+            "Num": "C4",
+            "Station": "凱旋中華",
+            "Station_Eng": "Kaisyuan Jhonghua",
+            "Station_Jpn": "凱旋中華",
+            "Station_Kor": "카이쉬안중화",
+            "Station_SChi": "凯旋中华",
+            "GeoHash": "wsj899p3w"
+        },
+        {
+            "Num": "C5",
+            "Station": "夢時代",
+            "Station_Eng": "Dream Mall",
+            "Station_Jpn": "夢時代",
+            "Station_Kor": "드림몰",
+            "Station_SChi": "梦时代",
+            "GeoHash": "wsj89972v"
+        },
+        {
+            "Num": "C6",
+            "Station": "經貿園區",
+            "Station_Eng": "Commerce and Trade Park",
+            "Station_Jpn": "経貿園区",
+            "Station_Kor": "상업과 무역 단지",
+            "Station_SChi": "经贸园区",
+            "GeoHash": "wsj89d3sp"
+        },
+        {
+            "Num": "C7",
+            "Station": "軟體園區",
+            "Station_Eng": "Software Technology Park",
+            "Station_Jpn": "軟体園区",
+            "Station_Kor": "소프트웨어 단지",
+            "Station_SChi": "软件园区",
+            "GeoHash": "wsj89e0rs"
+        },
+        {
+            "Num": "C8",
+            "Station": "高雄展覽館",
+            "Station_Eng": "Kaohsiung Exhibition Center",
+            "Station_Jpn": "高雄展覧館",
+            "Station_Kor": "가오슝 전람관",
+            "Station_SChi": "高雄展览馆",
+            "GeoHash": "wsj89kn3e"
+        },
+        {
+            "Num": "C9",
+            "Station": "旅運中心",
+            "Station_Eng": "Cruise Terminal",
+            "Station_Jpn": "旅運中心",
+            "Station_Kor": "크루즈 터미널",
+            "Station_SChi": "旅运中心",
+            "GeoHash": "wsj89k6fp"
+        },
+        {
+            "Num": "C10",
+            "Station": "光榮碼頭",
+            "Station_Eng": "Glory Pier",
+            "Station_Jpn": "光栄碼頭",
+            "Station_Kor": "광룽 부두",
+            "Station_SChi": "光荣码头",
+            "GeoHash": "wsj89m6b7"
+        },
+        {
+            "Num": "C11",
+            "Station": "真愛碼頭",
+            "Station_Eng": "Love Pier",
+            "Station_Jpn": "真愛碼頭",
+            "Station_Kor": "전아이 부두",
+            "Station_SChi": "真爱码头",
+            "GeoHash": "wsj89m8p5"
+        },
+        {
+            "Num": "C12",
+            "Station": "駁二大義",
+            "Station_Eng": "Dayi Pier-2",
+            "Station_Jpn": "駁二大義",
+            "Station_Kor": "보얼다이",
+            "Station_SChi": "驳二大义",
+            "GeoHash": "wsj89js69"
+        },
+        {
+            "Num": "C13",
+            "Station": "駁二蓬萊",
+            "Station_Eng": "Penglai Pier-2 ",
+            "Station_Jpn": "駁二蓬莱",
+            "Station_Kor": "보얼봉래",
+            "Station_SChi": "驳二蓬莱",
+            "GeoHash": "wsj89jcjv"
+        },
+        {
+            "Num": "C14",
+            "Station": "哈瑪星",
+            "Station_Eng": "Hamasen",
+            "Station_Jpn": "哈瑪星",
+            "Station_Kor": "하마센",
+            "Station_SChi": "哈玛星",
+            "GeoHash": "wsj88ynhq",
+            "Transformation": [
+                {
+                    "System": "MRT"
+                }
+            ]
+        },
+        {
+            "Num": "C15",
+            "Station": "壽山公園",
+            "Station_Eng": "Shoushan Park",
+            "Station_Jpn": "寿山公園",
+            "Station_Kor": "쇼우산 공원",
+            "Station_SChi": "寿山公园",
+            "GeoHash": "wsj89p01n"
+        },
+        {
+            "Num": "C16",
+            "Station": "文武聖殿",
+            "Station_Eng": "Wenwu Temple",
+            "Station_Jpn": "文武聖殿",
+            "Station_Kor": "민군 사원",
+            "Station_SChi": "文武圣殿",
+            "GeoHash": "wsj89p9dz"
+        },
+        {
+            "Num": "C17",
+            "Station": "鼓山區公所",
+            "Station_Eng": "Gushan District Office",
+            "Station_Jpn": "鼓山区公所",
+            "Station_Kor": "구산 구청",
+            "Station_SChi": "鼓山区公所",
+            "GeoHash": "wsj8c0g04"
+        },
+        {
+            "Num": "C18",
+            "Station": "鼓山",
+            "Station_Eng": "Gushan",
+            "Station_Jpn": "鼓山",
+            "Station_Kor": "북산",
+            "Station_SChi": "鼓山",
+            "GeoHash": "wsj8c1f52",
+            "Transformation": [
+                {
+                    "System": "TRA"
+                }
+            ]
+        },
+        {
+            "Num": "C19",
+            "Station": "馬卡道",
+            "Station_Eng": "Makadao",
+            "Station_Jpn": "馬卡道",
+            "Station_Kor": "마카다오",
+            "Station_SChi": "马卡道",
+            "GeoHash": "wsj8c4f2b"
+        },
+        {
+            "Num": "C20",
+            "Station": "臺鐵美術館",
+            "Station_Eng": "TRA Museum of Fine Arts",
+            "Station_Jpn": "台鉄美術館",
+            "Station_Kor": "대만 철도 미술관",
+            "Station_SChi": "台铁美术馆",
+            "GeoHash": "wsj8c5dmy",
+            "Transformation": [
+                {
+                    "System": "TRA"
+                }
+            ]
+        },
+        {
+            "Num": "C21A",
+            "Station": "內惟藝術中心",
+            "Station_Eng": "Neiwei Arts Center",
+            "Station_Jpn": "内惟芸術中心",
+            "Station_Kor": "네이웨이 아트 센터",
+            "Station_SChi": "内惟艺术中心",
+            "GeoHash": "wsj8ch5r4"
+        },
+        {
+            "Num": "C21",
+            "Station": "美術館",
+            "Station_Eng": "Kaohsiung Museum of Fine Arts",
+            "Station_Jpn": "美術館",
+            "Station_Kor": "미술관",
+            "Station_SChi": "美术馆",
+            "GeoHash": "wsj8chnrq"
+        },
+        {
+            "Num": "C22",
+            "Station": "聯合醫院",
+            "Station_Eng": "Kaohsiung Municipal United Hospital",
+            "Station_Jpn": "聯合医院",
+            "Station_Kor": "유나이티드 병원",
+            "Station_SChi": "联合医院",
+            "GeoHash": "wsj8ck1jw"
+        },
+        {
+            "Num": "C23",
+            "Station": "龍華國小",
+            "Station_Eng": "Longhua Elementary School",
+            "Station_Jpn": "龍華国小",
+            "Station_Kor": "룽화 초등학교",
+            "Station_SChi": "龙华国小",
+            "GeoHash": "wsj8ckhk9"
+        },
+        {
+            "Num": "C24",
+            "Station": "愛河之心",
+            "Station_Eng": "Heart of Love River",
+            "Station_Jpn": "愛河之心",
+            "Station_Kor": "하트 오브 사랑의 강",
+            "Station_SChi": "爱河之心",
+            "GeoHash": "wsj8cs3vz",
+            "Transformation": [
+                {
+                    "System": "MRT"
+                }
+            ]
+        },
+        {
+            "Num": "C32",
+            "Station": "凱旋公園",
+            "Station_Eng": "Kaisyuan Park",
+            "Station_Jpn": "凱旋公園",
+            "Station_Kor": "트라이엄프 공원",
+            "Station_SChi": "凯旋公园",
+            "GeoHash": "wsj8dp86h"
+        },
+        {
+            "Num": "C33",
+            "Station": "衛生局",
+            "Station_Eng": "Department of Health",
+            "Station_Jpn": "衛生局",
+            "Station_Kor": "보건국",
+            "Station_SChi": "卫生局",
+            "GeoHash": "wsj8dnc13"
+        },
+        {
+            "Num": "C34",
+            "Station": "五權國小",
+            "Station_Eng": "Wucyuan Elementary School",
+            "Station_Jpn": "五権国小",
+            "Station_Kor": "우취안 초등학교",
+            "Station_SChi": "五权国小",
+            "GeoHash": "wsj8dn44h"
+        },
+        {
+            "Num": "C35",
+            "Station": "凱旋武昌",
+            "Station_Eng": "Kaisyuan Wuchang",
+            "Station_Jpn": "凱旋武昌",
+            "Station_Kor": "트라이엄프 우창",
+            "Station_SChi": "凯旋武昌",
+            "GeoHash": "wsj8dj735"
+        },
+        {
+            "Num": "C36",
+            "Station": "凱旋二聖",
+            "Station_Eng": "Kaisyuan Ersheng",
+            "Station_Jpn": "凱旋二聖",
+            "Station_Kor": "트라이엄프 어성",
+            "Station_SChi": "凯旋二圣",
+            "GeoHash": "wsj8dh7xd"
+        },
+        {
+            "Num": "C37",
+            "Station": "輕軌機廠",
+            "Station_Eng": "LRT Depot",
+            "Station_Jpn": "軽軌機廠",
+            "Station_Kor": "경전철 창고",
+            "Station_SChi": "轻轨机厂",
+            "GeoHash": "wsj8dn44h"
+        }
+    ]
+}
