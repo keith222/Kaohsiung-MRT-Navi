@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		53506CB12956AA340069F788 /* Kingfisher in Frameworks */ = {isa = PBXBuildFile; productRef = 53506CB02956AA340069F788 /* Kingfisher */; };
 		53D2A7052950B0FE00B997CC /* KaohsiungMRTNaviApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53D2A7042950B0FE00B997CC /* KaohsiungMRTNaviApp.swift */; };
 		53D2A7072950B0FE00B997CC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53D2A7062950B0FE00B997CC /* ContentView.swift */; };
 		53D2A7092950B10000B997CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 53D2A7082950B10000B997CC /* Assets.xcassets */; };
@@ -23,6 +24,13 @@
 		53D2A73F29561ED500B997CC /* TabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53D2A73E29561ED500B997CC /* TabBarView.swift */; };
 		53D2A74029561ED500B997CC /* TabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53D2A73E29561ED500B997CC /* TabBarView.swift */; };
 		53D2A74129561ED500B997CC /* TabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53D2A73E29561ED500B997CC /* TabBarView.swift */; };
+		53D2A7432956245000B997CC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53D2A7062950B0FE00B997CC /* ContentView.swift */; };
+		53D2A7442956245000B997CC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53D2A7062950B0FE00B997CC /* ContentView.swift */; };
+		53D2A74A295626B600B997CC /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 53D2A74E295626B600B997CC /* Localizable.strings */; };
+		53D2A74B295626B600B997CC /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 53D2A74E295626B600B997CC /* Localizable.strings */; };
+		53D2A74C295626B600B997CC /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 53D2A74E295626B600B997CC /* Localizable.strings */; };
+		53D2A7582956286800B997CC /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 53D2A7562956286800B997CC /* Info.plist */; };
+		53D2A7592956286800B997CC /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 53D2A7562956286800B997CC /* Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +64,11 @@
 		53D2A73629561E6900B997CC /* kmrt.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = kmrt.json; sourceTree = "<group>"; };
 		53D2A73729561E6900B997CC /* kmrt_station_time_fee.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = kmrt_station_time_fee.json; sourceTree = "<group>"; };
 		53D2A73E29561ED500B997CC /* TabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarView.swift; sourceTree = "<group>"; };
+		53D2A74D295626B600B997CC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		53D2A74F295626BA00B997CC /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		53D2A750295626BB00B997CC /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Localizable.strings; sourceTree = "<group>"; };
+		53D2A751295626BC00B997CC /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/Localizable.strings; sourceTree = "<group>"; };
+		53D2A7562956286800B997CC /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +76,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				53506CB12956AA340069F788 /* Kingfisher in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -106,6 +120,7 @@
 		53D2A7032950B0FE00B997CC /* Kaohsiung MRT Navi */ = {
 			isa = PBXGroup;
 			children = (
+				53D2A7562956286800B997CC /* Info.plist */,
 				53D2A73529561C8A00B997CC /* Extension */,
 				53D2A73429561C8400B997CC /* Service */,
 				53D2A73229561C7A00B997CC /* Data */,
@@ -113,7 +128,6 @@
 				53D2A72F29561C5300B997CC /* ViewModel */,
 				53D2A72E29561C4D00B997CC /* View */,
 				53D2A7042950B0FE00B997CC /* KaohsiungMRTNaviApp.swift */,
-				53D2A7062950B0FE00B997CC /* ContentView.swift */,
 				53D2A7082950B10000B997CC /* Assets.xcassets */,
 				53D2A70A2950B10000B997CC /* Preview Content */,
 			);
@@ -148,6 +162,7 @@
 		53D2A72E29561C4D00B997CC /* View */ = {
 			isa = PBXGroup;
 			children = (
+				53D2A7062950B0FE00B997CC /* ContentView.swift */,
 				53D2A74229561ED900B997CC /* Component */,
 				53D2A73E29561ED500B997CC /* TabBarView.swift */,
 			);
@@ -173,6 +188,7 @@
 			children = (
 				53D2A73729561E6900B997CC /* kmrt_station_time_fee.json */,
 				53D2A73629561E6900B997CC /* kmrt.json */,
+				53D2A74E295626B600B997CC /* Localizable.strings */,
 			);
 			path = Data;
 			sourceTree = "<group>";
@@ -214,6 +230,9 @@
 			dependencies = (
 			);
 			name = "Kaohsiung MRT Navi";
+			packageProductDependencies = (
+				53506CB02956AA340069F788 /* Kingfisher */,
+			);
 			productName = "Kaohsiung MRT Navi";
 			productReference = 53D2A7012950B0FE00B997CC /* Kaohsiung MRT Navi.app */;
 			productType = "com.apple.product-type.application";
@@ -279,13 +298,18 @@
 			};
 			buildConfigurationList = 53D2A6FC2950B0FE00B997CC /* Build configuration list for PBXProject "Kaohsiung MRT Navi" */;
 			compatibilityVersion = "Xcode 14.0";
-			developmentRegion = en;
+			developmentRegion = "zh-Hant";
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
-				Base,
+				"zh-Hant",
+				ja,
+				ko,
 			);
 			mainGroup = 53D2A6F82950B0FE00B997CC;
+			packageReferences = (
+				53506CAF2956AA340069F788 /* XCRemoteSwiftPackageReference "Kingfisher" */,
+			);
 			productRefGroup = 53D2A7022950B0FE00B997CC /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -302,6 +326,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				53D2A74A295626B600B997CC /* Localizable.strings in Resources */,
 				53D2A70C2950B10000B997CC /* Preview Assets.xcassets in Resources */,
 				53D2A73829561E6900B997CC /* kmrt.json in Resources */,
 				53D2A73B29561E6900B997CC /* kmrt_station_time_fee.json in Resources */,
@@ -313,7 +338,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				53D2A7582956286800B997CC /* Info.plist in Resources */,
 				53D2A73C29561E6900B997CC /* kmrt_station_time_fee.json in Resources */,
+				53D2A74B295626B600B997CC /* Localizable.strings in Resources */,
 				53D2A73929561E6900B997CC /* kmrt.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -322,7 +349,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				53D2A7592956286800B997CC /* Info.plist in Resources */,
 				53D2A73D29561E6900B997CC /* kmrt_station_time_fee.json in Resources */,
+				53D2A74C295626B600B997CC /* Localizable.strings in Resources */,
 				53D2A73A29561E6900B997CC /* kmrt.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -346,6 +375,7 @@
 			files = (
 				53D2A74029561ED500B997CC /* TabBarView.swift in Sources */,
 				53D2A7162950B10000B997CC /* Kaohsiung_MRT_NaviTests.swift in Sources */,
+				53D2A7432956245000B997CC /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -355,6 +385,7 @@
 			files = (
 				53D2A7222950B10000B997CC /* Kaohsiung_MRT_NaviUITestsLaunchTests.swift in Sources */,
 				53D2A74129561ED500B997CC /* TabBarView.swift in Sources */,
+				53D2A7442956245000B997CC /* ContentView.swift in Sources */,
 				53D2A7202950B10000B997CC /* Kaohsiung_MRT_NaviUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -373,6 +404,20 @@
 			targetProxy = 53D2A71C2950B10000B997CC /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		53D2A74E295626B600B997CC /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				53D2A74D295626B600B997CC /* en */,
+				53D2A74F295626BA00B997CC /* zh-Hant */,
+				53D2A750295626BB00B997CC /* ja */,
+				53D2A751295626BC00B997CC /* ko */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		53D2A7232950B10000B997CC /* Debug */ = {
@@ -500,7 +545,7 @@
 				DEVELOPMENT_TEAM = 8MREJM6257;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "Kaohsiung MRT Navi";
+				INFOPLIST_FILE = "Kaohsiung MRT Navi/Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -534,7 +579,7 @@
 				DEVELOPMENT_TEAM = 8MREJM6257;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "Kaohsiung MRT Navi";
+				INFOPLIST_FILE = "Kaohsiung MRT Navi/Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -673,6 +718,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		53506CAF2956AA340069F788 /* XCRemoteSwiftPackageReference "Kingfisher" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/onevcat/Kingfisher.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 7.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		53506CB02956AA340069F788 /* Kingfisher */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 53506CAF2956AA340069F788 /* XCRemoteSwiftPackageReference "Kingfisher" */;
+			productName = Kingfisher;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 53D2A6F92950B0FE00B997CC /* Project object */;
 }
