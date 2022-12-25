@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		53506CB12956AA340069F788 /* Kingfisher in Frameworks */ = {isa = PBXBuildFile; productRef = 53506CB02956AA340069F788 /* Kingfisher */; };
+		53506CB5295831520069F788 /* twicon.otf in Resources */ = {isa = PBXBuildFile; fileRef = 53506CB4295831520069F788 /* twicon.otf */; };
 		53D2A7052950B0FE00B997CC /* KaohsiungMRTNaviApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53D2A7042950B0FE00B997CC /* KaohsiungMRTNaviApp.swift */; };
 		53D2A7072950B0FE00B997CC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53D2A7062950B0FE00B997CC /* ContentView.swift */; };
 		53D2A7092950B10000B997CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 53D2A7082950B10000B997CC /* Assets.xcassets */; };
@@ -51,6 +52,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		53506CB4295831520069F788 /* twicon.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = twicon.otf; sourceTree = "<group>"; };
 		53D2A7012950B0FE00B997CC /* Kaohsiung MRT Navi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Kaohsiung MRT Navi.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		53D2A7042950B0FE00B997CC /* KaohsiungMRTNaviApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KaohsiungMRTNaviApp.swift; sourceTree = "<group>"; };
 		53D2A7062950B0FE00B997CC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -120,16 +122,16 @@
 		53D2A7032950B0FE00B997CC /* Kaohsiung MRT Navi */ = {
 			isa = PBXGroup;
 			children = (
-				53D2A7562956286800B997CC /* Info.plist */,
-				53D2A73529561C8A00B997CC /* Extension */,
-				53D2A73429561C8400B997CC /* Service */,
 				53D2A73229561C7A00B997CC /* Data */,
+				53D2A73529561C8A00B997CC /* Extension */,
 				53D2A73129561C7500B997CC /* Model */,
-				53D2A72F29561C5300B997CC /* ViewModel */,
-				53D2A72E29561C4D00B997CC /* View */,
-				53D2A7042950B0FE00B997CC /* KaohsiungMRTNaviApp.swift */,
-				53D2A7082950B10000B997CC /* Assets.xcassets */,
 				53D2A70A2950B10000B997CC /* Preview Content */,
+				53D2A73429561C8400B997CC /* Service */,
+				53D2A72E29561C4D00B997CC /* View */,
+				53D2A72F29561C5300B997CC /* ViewModel */,
+				53D2A7082950B10000B997CC /* Assets.xcassets */,
+				53D2A7562956286800B997CC /* Info.plist */,
+				53D2A7042950B0FE00B997CC /* KaohsiungMRTNaviApp.swift */,
 			);
 			path = "Kaohsiung MRT Navi";
 			sourceTree = "<group>";
@@ -162,8 +164,8 @@
 		53D2A72E29561C4D00B997CC /* View */ = {
 			isa = PBXGroup;
 			children = (
-				53D2A7062950B0FE00B997CC /* ContentView.swift */,
 				53D2A74229561ED900B997CC /* Component */,
+				53D2A7062950B0FE00B997CC /* ContentView.swift */,
 				53D2A73E29561ED500B997CC /* TabBarView.swift */,
 			);
 			path = View;
@@ -186,9 +188,10 @@
 		53D2A73229561C7A00B997CC /* Data */ = {
 			isa = PBXGroup;
 			children = (
-				53D2A73729561E6900B997CC /* kmrt_station_time_fee.json */,
 				53D2A73629561E6900B997CC /* kmrt.json */,
+				53D2A73729561E6900B997CC /* kmrt_station_time_fee.json */,
 				53D2A74E295626B600B997CC /* Localizable.strings */,
+				53506CB4295831520069F788 /* twicon.otf */,
 			);
 			path = Data;
 			sourceTree = "<group>";
@@ -326,11 +329,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				53D2A74A295626B600B997CC /* Localizable.strings in Resources */,
-				53D2A70C2950B10000B997CC /* Preview Assets.xcassets in Resources */,
+				53D2A7092950B10000B997CC /* Assets.xcassets in Resources */,
 				53D2A73829561E6900B997CC /* kmrt.json in Resources */,
 				53D2A73B29561E6900B997CC /* kmrt_station_time_fee.json in Resources */,
-				53D2A7092950B10000B997CC /* Assets.xcassets in Resources */,
+				53D2A74A295626B600B997CC /* Localizable.strings in Resources */,
+				53D2A70C2950B10000B997CC /* Preview Assets.xcassets in Resources */,
+				53506CB5295831520069F788 /* twicon.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -339,9 +343,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				53D2A7582956286800B997CC /* Info.plist in Resources */,
+				53D2A73929561E6900B997CC /* kmrt.json in Resources */,
 				53D2A73C29561E6900B997CC /* kmrt_station_time_fee.json in Resources */,
 				53D2A74B295626B600B997CC /* Localizable.strings in Resources */,
-				53D2A73929561E6900B997CC /* kmrt.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -350,9 +354,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				53D2A7592956286800B997CC /* Info.plist in Resources */,
+				53D2A73A29561E6900B997CC /* kmrt.json in Resources */,
 				53D2A73D29561E6900B997CC /* kmrt_station_time_fee.json in Resources */,
 				53D2A74C295626B600B997CC /* Localizable.strings in Resources */,
-				53D2A73A29561E6900B997CC /* kmrt.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -364,8 +368,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				53D2A7072950B0FE00B997CC /* ContentView.swift in Sources */,
-				53D2A73F29561ED500B997CC /* TabBarView.swift in Sources */,
 				53D2A7052950B0FE00B997CC /* KaohsiungMRTNaviApp.swift in Sources */,
+				53D2A73F29561ED500B997CC /* TabBarView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -373,9 +377,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				53D2A74029561ED500B997CC /* TabBarView.swift in Sources */,
-				53D2A7162950B10000B997CC /* Kaohsiung_MRT_NaviTests.swift in Sources */,
 				53D2A7432956245000B997CC /* ContentView.swift in Sources */,
+				53D2A7162950B10000B997CC /* Kaohsiung_MRT_NaviTests.swift in Sources */,
+				53D2A74029561ED500B997CC /* TabBarView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -383,10 +387,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				53D2A7222950B10000B997CC /* Kaohsiung_MRT_NaviUITestsLaunchTests.swift in Sources */,
-				53D2A74129561ED500B997CC /* TabBarView.swift in Sources */,
 				53D2A7442956245000B997CC /* ContentView.swift in Sources */,
 				53D2A7202950B10000B997CC /* Kaohsiung_MRT_NaviUITests.swift in Sources */,
+				53D2A7222950B10000B997CC /* Kaohsiung_MRT_NaviUITestsLaunchTests.swift in Sources */,
+				53D2A74129561ED500B997CC /* TabBarView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -410,9 +414,9 @@
 			isa = PBXVariantGroup;
 			children = (
 				53D2A74D295626B600B997CC /* en */,
-				53D2A74F295626BA00B997CC /* zh-Hant */,
 				53D2A750295626BB00B997CC /* ja */,
 				53D2A751295626BC00B997CC /* ko */,
+				53D2A74F295626BA00B997CC /* zh-Hant */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
