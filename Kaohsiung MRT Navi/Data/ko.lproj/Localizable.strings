@@ -5,3 +5,16 @@
   Created by Yang Tun-Kai on 2022/12/24.
   
 */
+// Tab Title
+"stationList" = "역 목록";
+
+// Route
+"redLine" = "홍선";
+"orangeLine" = "귤선";
+"circleLine" = "서클 경전철";
+"redLineStart" = "샤오강";
+"redLineEnd" = "남 강산";
+"orangeLineStart" = "시쯔완";
+"orangeLineEnd" = "다랴오";
+"circleLineStart" = "카이쉬안 공원";
+"circleLineEnd" = "아이허즈신";

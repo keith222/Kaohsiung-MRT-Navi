@@ -5,3 +5,17 @@
   Created by Yang Tun-Kai on 2022/12/24.
   
 */
+
+// Tab Title
+"stationList" = "車站列表";
+
+// Route
+"redLine" = "紅線";
+"orangeLine" = "橘線";
+"circleLine" = "輕軌環狀線";
+"redLineStart" = "小港";
+"redLineEnd" = "南岡山";
+"orangeLineStart" = "西子灣";
+"orangeLineEnd" = "大寮";
+"circleLineStart" = "凱旋公園";
+"circleLineEnd" = "愛河之心";

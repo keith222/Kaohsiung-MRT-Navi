@@ -5,3 +5,17 @@
   Created by Yang Tun-Kai on 2022/12/24.
   
 */
+
+// Tab Title
+"stationList" = "StationList";
+
+// Route
+"redLine" = "Red Line";
+"orangeLine" = "Orange Line";
+"circleLine" = "LRT Circular Line";
+"redLineStart" = "Siaogang";
+"redLineEnd" = "Gangshan South";
+"orangeLineStart" = "Sizihwan";
+"orangeLineEnd" = "Daliao";
+"circleLineStart" = "Kaisyuan Park";
+"circleLineEnd" = "Heart of Love River";
