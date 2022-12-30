@@ -1597,7 +1597,7 @@
             "Station": "前鎮之星",
             "Station_Eng": "Cianjhen Star",
             "Station_Jpn": "前鎮之星",
-            "Station_Kor": "첸전즈싱",
+            "Station_Kor": "첸전스타",
             "Station_SChi": "前镇之星",
             "GeoHash": "wsj89c6ur",
             "Transformation": [
@@ -1629,7 +1629,7 @@
             "Station": "經貿園區",
             "Station_Eng": "Commerce and Trade Park",
             "Station_Jpn": "経貿園区",
-            "Station_Kor": "상업과 무역 단지",
+            "Station_Kor": "상업 무역 단지",
             "Station_SChi": "经贸园区",
             "GeoHash": "wsj89d3sp"
         },
@@ -1665,7 +1665,7 @@
             "Station": "光榮碼頭",
             "Station_Eng": "Glory Pier",
             "Station_Jpn": "光栄碼頭",
-            "Station_Kor": "광룽 부두",
+            "Station_Kor": "영광부두",
             "Station_SChi": "光荣码头",
             "GeoHash": "wsj89m6b7"
         },
@@ -1674,7 +1674,7 @@
             "Station": "真愛碼頭",
             "Station_Eng": "Love Pier",
             "Station_Jpn": "真愛碼頭",
-            "Station_Kor": "전아이 부두",
+            "Station_Kor": "진애부두",
             "Station_SChi": "真爱码头",
             "GeoHash": "wsj89m8p5"
         },
@@ -1692,7 +1692,7 @@
             "Station": "駁二蓬萊",
             "Station_Eng": "Penglai Pier-2 ",
             "Station_Jpn": "駁二蓬莱",
-            "Station_Kor": "보얼봉래",
+            "Station_Kor": "보얼펑라이",
             "Station_SChi": "驳二蓬莱",
             "GeoHash": "wsj89jcjv"
         },
@@ -1715,7 +1715,7 @@
             "Station": "壽山公園",
             "Station_Eng": "Shoushan Park",
             "Station_Jpn": "寿山公園",
-            "Station_Kor": "쇼우산 공원",
+            "Station_Kor": "서우산 공원",
             "Station_SChi": "寿山公园",
             "GeoHash": "wsj89p01n"
         },
@@ -1724,7 +1724,7 @@
             "Station": "文武聖殿",
             "Station_Eng": "Wenwu Temple",
             "Station_Jpn": "文武聖殿",
-            "Station_Kor": "민군 사원",
+            "Station_Kor": "원우 성전",
             "Station_SChi": "文武圣殿",
             "GeoHash": "wsj89p9dz"
         },
@@ -1742,7 +1742,7 @@
             "Station": "鼓山",
             "Station_Eng": "Gushan",
             "Station_Jpn": "鼓山",
-            "Station_Kor": "북산",
+            "Station_Kor": "구산",
             "Station_SChi": "鼓山",
             "GeoHash": "wsj8c1f52",
             "Transformation": [
@@ -1756,7 +1756,7 @@
             "Station": "馬卡道",
             "Station_Eng": "Makadao",
             "Station_Jpn": "馬卡道",
-            "Station_Kor": "마카다오",
+            "Station_Kor": "마카타오",
             "Station_SChi": "马卡道",
             "GeoHash": "wsj8c4f2b"
         },
@@ -1765,7 +1765,7 @@
             "Station": "臺鐵美術館",
             "Station_Eng": "TRA Museum of Fine Arts",
             "Station_Jpn": "台鉄美術館",
-            "Station_Kor": "대만 철도 미술관",
+            "Station_Kor": "타이완 철도 관리국 미술관",
             "Station_SChi": "台铁美术馆",
             "GeoHash": "wsj8c5dmy",
             "Transformation": [
@@ -1797,7 +1797,7 @@
             "Station": "聯合醫院",
             "Station_Eng": "Kaohsiung Municipal United Hospital",
             "Station_Jpn": "聯合医院",
-            "Station_Kor": "유나이티드 병원",
+            "Station_Kor": "가오슝 시립 연합병원",
             "Station_SChi": "联合医院",
             "GeoHash": "wsj8ck1jw"
         },
@@ -1806,7 +1806,7 @@
             "Station": "龍華國小",
             "Station_Eng": "Longhua Elementary School",
             "Station_Jpn": "龍華国小",
-            "Station_Kor": "룽화 초등학교",
+            "Station_Kor": "룽화 소학교",
             "Station_SChi": "龙华国小",
             "GeoHash": "wsj8ckhk9"
         },
@@ -1838,7 +1838,7 @@
             "Station": "衛生局",
             "Station_Eng": "Department of Health",
             "Station_Jpn": "衛生局",
-            "Station_Kor": "보건국",
+            "Station_Kor": "위생국",
             "Station_SChi": "卫生局",
             "GeoHash": "wsj8dnc13"
         },
@@ -1847,7 +1847,7 @@
             "Station": "五權國小",
             "Station_Eng": "Wucyuan Elementary School",
             "Station_Jpn": "五権国小",
-            "Station_Kor": "우취안 초등학교",
+            "Station_Kor": "우취안 소학교",
             "Station_SChi": "五权国小",
             "GeoHash": "wsj8dn44h"
         },
@@ -1856,7 +1856,7 @@
             "Station": "凱旋武昌",
             "Station_Eng": "Kaisyuan Wuchang",
             "Station_Jpn": "凱旋武昌",
-            "Station_Kor": "트라이엄프 우창",
+            "Station_Kor": "카이쉬안우창",
             "Station_SChi": "凯旋武昌",
             "GeoHash": "wsj8dj735"
         },
@@ -1865,7 +1865,7 @@
             "Station": "凱旋二聖",
             "Station_Eng": "Kaisyuan Ersheng",
             "Station_Jpn": "凱旋二聖",
-            "Station_Kor": "트라이엄프 어성",
+            "Station_Kor": "카이쉬안얼성",
             "Station_SChi": "凯旋二圣",
             "GeoHash": "wsj8dh7xd"
         },
@@ -1874,7 +1874,7 @@
             "Station": "輕軌機廠",
             "Station_Eng": "LRT Depot",
             "Station_Jpn": "軽軌機廠",
-            "Station_Kor": "경전철 창고",
+            "Station_Kor": "경전철 기창",
             "Station_SChi": "轻轨机厂",
             "GeoHash": "wsj8dn44h"
         }
