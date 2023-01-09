@@ -21,4 +21,32 @@ extension Color {
     static var arrowColor: Color {
         return Color("ArrowColor")
     }
+    
+    static var redLineColor: Color {
+        return Color("RedLineColor")
+    }
+    
+    static var orangeLineColor: Color {
+        return Color("OrangeLineColor")
+    }
+    
+    static var circleLineColor: Color {
+        return Color("CircleLineColor")
+    }
+    
+    static var thsrColor: Color {
+        return Color("THSRColor")
+    }
+    
+    static var traColor: Color {
+        return Color("TRAColor")
+    }
+    
+    static var youbikeColor: Color {
+        return Color("YOUBIKEColor")
+    }
+    
+    static var airportColor: Color {
+        return Color("AirportColor")
+    }
 }
