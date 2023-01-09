@@ -6,3 +6,9 @@
 //
 
 import Foundation
+
+class APIService{
+    
+    //url of kmrt web site
+    static let MRTMapURL: String = (Bundle.main.object(forInfoDictionaryKey: "API Service") as! Dictionary<String, String>)["MRTMapURL"]!
+}
