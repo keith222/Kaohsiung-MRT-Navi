@@ -1,5 +1,5 @@
 //
-//  Station.swift/Users/Keith/Documents/My Project/Kaohsiung MRT Navi/Kaohsiung MRT Navi/Data/zh-Hant.lproj/Localizable.strings
+//  Station.swift
 //  Kaohsiung MRT Navi
 //
 //  Created by Yang Tun-Kai on 2022/12/27.
@@ -20,6 +20,7 @@ struct Station: Codable {
     let escalatorUp: [Int]?
     let escalatorDown: [Int]?
     let bicycle: [Int]?
+    let transformation: [Transformation]?
     let exit: [String]?
     let exitInfo: [String]?
     
@@ -36,6 +37,7 @@ struct Station: Codable {
         case escalatorUp = "EscalatorUp"
         case escalatorDown = "EscalatorDown"
         case bicycle = "Bicycle"
+        case transformation = "Transformation"
         case exit = "Exit"
         case exitInfo = "ExitInfo"
     }
