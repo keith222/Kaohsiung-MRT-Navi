@@ -6,15 +6,30 @@
   
 */
 // Tab Title
-"stationList" = "駅情報";
+"stationList" = "駅一覧";
+"routeList" = "ルート一覧";
 
 // Route
 "redLine" = "レッドライン";
 "orangeLine" = "オレンジライン";
 "circleLine" = "ライトレール環状線";
+"lrt" = "ライトレール";
 "redLineStart" = "小港";
 "redLineEnd" = "南岡山";
 "orangeLineStart" = "西子湾";
 "orangeLineEnd" = "大寮";
 "circleLineStart" = "凱旋公園";
 "circleLineEnd" = "愛河之心";
+
+"searchStation" = "駅検索";
+
+// Transportation
+"tra" = "台鉄";
+"thsr" = "高鉄";
+"youbike" = "YouBike";
+"airport" = "空港";
+
+// Exit
+"exit" = "出口";
+"exitInfo" = "出口案内";
+"stationPlan" = "駅構内図";

@@ -8,14 +8,29 @@
 
 // Tab Title
 "stationList" = "車站列表";
+"routeList" = "路線列表";
 
 // Route
 "redLine" = "紅線";
 "orangeLine" = "橘線";
 "circleLine" = "輕軌環狀線";
+"lrt" = "輕軌";
 "redLineStart" = "小港";
 "redLineEnd" = "南岡山";
 "orangeLineStart" = "西子灣";
 "orangeLineEnd" = "大寮";
 "circleLineStart" = "凱旋公園";
 "circleLineEnd" = "愛河之心";
+
+"searchStation" = "車站搜尋";
+
+// Transportation
+"tra" = "台鐵";
+"thsr" = "高鐵";
+"youbike" = "YouBike";
+"airport" = "機場";
+
+// Exit
+"exit" = "出口";
+"exitInfo" = "出口資訊";
+"stationPlan" = "站內平面圖";

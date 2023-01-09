@@ -7,14 +7,29 @@
 */
 // Tab Title
 "stationList" = "역 목록";
+"routeList" = "경로 목록";
 
 // Route
 "redLine" = "홍선";
 "orangeLine" = "귤선";
 "circleLine" = "서클 경전철";
+"lrt" = "라이트 레일";
 "redLineStart" = "샤오강";
 "redLineEnd" = "남 강산";
 "orangeLineStart" = "시쯔완";
 "orangeLineEnd" = "다랴오";
 "circleLineStart" = "카이쉬안 공원";
 "circleLineEnd" = "아이허즈신";
+
+"searchStation" = "역 검색";
+
+// Transportation
+"tra" = "대만 철도";
+"thsr" = "고속 철도";
+"youbike" = "YouBike";
+"airport" = "공항";
+
+// Exit
+"exit" = "출구";
+"exitInfo" = "출구 안내";
+"stationPlan" = "역 구내도";

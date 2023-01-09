@@ -7,15 +7,30 @@
 */
 
 // Tab Title
-"stationList" = "StationList";
+"stationList" = "Station List";
+"routeList" = "Route List";
 
 // Route
 "redLine" = "Red Line";
 "orangeLine" = "Orange Line";
 "circleLine" = "LRT Circular Line";
+"lrt" = "LRT";
 "redLineStart" = "Siaogang";
 "redLineEnd" = "Gangshan South";
 "orangeLineStart" = "Sizihwan";
 "orangeLineEnd" = "Daliao";
 "circleLineStart" = "Kaisyuan Park";
 "circleLineEnd" = "Heart of Love River";
+
+"searchStation" = "Station Search";
+
+// Transportation
+"tra" = "TRA";
+"thsr" = "THSR";
+"youbike" = "YouBike";
+"airport" = "Airport";
+
+// Station
+"exit" = "Exit";
+"exitInfo" = "Exit Information";
+"stationPlan" = "Station Plan";

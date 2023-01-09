@@ -8,14 +8,29 @@
 
 // Tab Title
 "stationList" = "车站列表";
+"routeList" = "路线列表";
 
 // Route
 "redLine" = "红线";
 "orangeLine" = "橘线";
 "circleLine" = "轻轨环状线";
+"lrt" = "轻轨";
 "redLineStart" = "小港";
 "redLineEnd" = "南冈山";
 "orangeLineStart" = "西子湾";
 "orangeLineEnd" = "大寮";
 "circleLineStart" = "凯旋公园";
 "circleLineEnd" = "爱河之心";
+
+"searchStation" = "车站搜寻";
+
+// Transportation
+"tra" = "台铁";
+"thsr" = "高铁";
+"youbike" = "YouBike";
+"airport" = "机场";
+
+// Exit
+"exit" = "出口";
+"exitInfo" = "出口资讯";
+"stationPlan" = "站内平面图";
