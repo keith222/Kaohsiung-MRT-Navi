@@ -10,6 +10,11 @@
 "stationList" = "Station List";
 "routeList" = "Route List";
 
+// Segment Title
+"segmentDescription" = "Route display mode";
+"list" = "List";
+"map" = "Map";
+
 // Route
 "redLine" = "Red Line";
 "orangeLine" = "Orange Line";
@@ -21,6 +26,10 @@
 "orangeLineEnd" = "Daliao";
 "circleLineStart" = "Kaisyuan Park";
 "circleLineEnd" = "Heart of Love River";
+
+// Info
+"to" = "To";
+"min" = "Mins";
 
 "searchStation" = "Station Search";
 
@@ -34,3 +43,7 @@
 "exit" = "Exit";
 "exitInfo" = "Exit Information";
 "stationPlan" = "Station Plan";
+
+// Network status
+"alert" = "Alert";
+"disconnectMessage" = "There is no network connection, please check your network environment.";

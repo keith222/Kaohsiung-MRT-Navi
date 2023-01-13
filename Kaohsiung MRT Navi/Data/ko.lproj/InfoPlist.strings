@@ -7,3 +7,5 @@
 */
 
 "CFBundleDisplayName" = "가오슝 첩운 내비";
+"NSLocationWhenInUseUsageDescription" = "「가오슝 첩운 내비」 는 현재 위치 정보를 사용합니다.";
+"NSLocationAlwaysUsageDescription" = "「가오슝 첩운 내비」 는 현재 위치 정보를 사용합니다.";

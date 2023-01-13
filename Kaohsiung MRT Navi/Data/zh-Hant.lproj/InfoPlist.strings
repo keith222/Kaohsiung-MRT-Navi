@@ -7,3 +7,5 @@
 */
 
 "CFBundleDisplayName" = "高雄捷運通";
+"NSLocationWhenInUseUsageDescription" = "「高雄捷運通」將會使用您目前的地理位置。";
+"NSLocationAlwaysUsageDescription" = "「高雄捷運通」將會使用您目前的地理位置。";

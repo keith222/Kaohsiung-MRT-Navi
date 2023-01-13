@@ -7,3 +7,5 @@
 */
 
 "CFBundleDisplayName" = "Kaohsiung MRT Navi";
+"NSLocationWhenInUseUsageDescription" = "\"Kaohsiung MRT Navi\" will user your current location.";
+"NSLocationAlwaysUsageDescription" = "\"Kaohsiung MRT Navi\" will user your current location.";

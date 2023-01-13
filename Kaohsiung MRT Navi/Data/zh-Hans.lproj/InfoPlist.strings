@@ -7,3 +7,5 @@
 */
 
 "CFBundleDisplayName" = "高雄捷运通";
+"NSLocationWhenInUseUsageDescription" = "「高雄捷运通」将会使用您目前的地理位置。";
+"NSLocationAlwaysUsageDescription" = "「高雄捷运通」将会使用您目前的地理位置。";

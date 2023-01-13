@@ -10,6 +10,11 @@
 "stationList" = "车站列表";
 "routeList" = "路线列表";
 
+// Segment Title
+"segmentDescription" = "路线显示方式";
+"list" = "列表";
+"map" = "地图";
+
 // Route
 "redLine" = "红线";
 "orangeLine" = "橘线";
@@ -21,6 +26,10 @@
 "orangeLineEnd" = "大寮";
 "circleLineStart" = "凯旋公园";
 "circleLineEnd" = "爱河之心";
+
+// Info
+"to" = "往";
+"min" = "分";
 
 "searchStation" = "车站搜寻";
 
@@ -34,3 +43,7 @@
 "exit" = "出口";
 "exitInfo" = "出口资讯";
 "stationPlan" = "站内平面图";
+
+// Network status
+"alert" = "提示";
+"disconnectMessage" = "目前无网路连线，请确认您的网路环境。";

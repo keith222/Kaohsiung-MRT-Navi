@@ -9,6 +9,11 @@
 "stationList" = "駅一覧";
 "routeList" = "ルート一覧";
 
+// Segment Title
+"segmentDescription" = "ルートの表示方法";
+"list" = "リスト";
+"map" = "地図";
+
 // Route
 "redLine" = "レッドライン";
 "orangeLine" = "オレンジライン";
@@ -20,6 +25,10 @@
 "orangeLineEnd" = "大寮";
 "circleLineStart" = "凱旋公園";
 "circleLineEnd" = "愛河之心";
+
+// Info
+"to" = "行き";
+"min" = "分";
 
 "searchStation" = "駅検索";
 
@@ -33,3 +42,7 @@
 "exit" = "出口";
 "exitInfo" = "出口案内";
 "stationPlan" = "駅構内図";
+
+// Network status
+"alert" = "通知";
+"disconnectMessage" = "現在ネットワークに接続されていません。ネットワーク環境を確認してください。";

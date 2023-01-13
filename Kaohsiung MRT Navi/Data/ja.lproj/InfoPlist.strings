@@ -7,3 +7,5 @@
 */
 
 "CFBundleDisplayName" = "高雄メトロナビ";
+"NSLocationWhenInUseUsageDescription" = "「高雄メトロナビ」はあなたの現在位置情報を使用します。";
+"NSLocationAlwaysUsageDescription" = "「高雄メトロナビ」はあなたの現在位置情報を使用します。";

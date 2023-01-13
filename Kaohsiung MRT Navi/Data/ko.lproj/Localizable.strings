@@ -9,6 +9,11 @@
 "stationList" = "역 목록";
 "routeList" = "경로 목록";
 
+// Segment Title
+"segmentDescription" = "경로 표시 방법";
+"list" = "목록";
+"map" = "지도";
+
 // Route
 "redLine" = "홍선";
 "orangeLine" = "귤선";
@@ -20,6 +25,10 @@
 "orangeLineEnd" = "다랴오";
 "circleLineStart" = "카이쉬안 공원";
 "circleLineEnd" = "아이허즈신";
+
+// Info
+"to" = "으로";
+"min" = "분";
 
 "searchStation" = "역 검색";
 
@@ -33,3 +42,7 @@
 "exit" = "출구";
 "exitInfo" = "출구 안내";
 "stationPlan" = "역 구내도";
+
+// Network status
+"alert" = "통지";
+"disconnectMessage" = "현재 네트워크 연결이 없습니다. 네트워크 환경을 확인하세요.";
