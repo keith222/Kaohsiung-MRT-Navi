@@ -49,4 +49,12 @@ extension Color {
     static var airportColor: Color {
         return Color("AirportColor")
     }
+    
+    static var circleBorderColor: Color {
+        return Color("CircleBorderColor")
+    }
+    
+    static var backgroundColor: Color {
+        return Color("BackgroundColor")
+    }
 }

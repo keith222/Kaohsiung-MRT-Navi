@@ -14,4 +14,8 @@ extension View {
     var screenWidth: CGFloat {
         return UIScreen.main.bounds.width
     }
+    
+    var screenHeight: CGFloat {
+        return UIScreen.main.bounds.height
+    }
 }
