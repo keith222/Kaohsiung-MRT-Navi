@@ -20,15 +20,18 @@ struct TagView: View {
             Text(viewModel.category.title)
                 .foregroundColor(.white)
                 .font(.system(size: 14, weight: .semibold))
+            
             switch viewModel.category {
             case .airport:
                 Text(Image(systemName: viewModel.category.icon))
                     .foregroundColor(.white)
                     .font(.system(size: 14, weight: .semibold))
+                
             case .redLine, .orangeLine, .lrt:
                 Text(viewModel.category.icon)
                     .foregroundColor(.white)
                     .font(.system(size: 14, weight: .semibold))
+                
             default:
                 Text(viewModel.category.icon)
                     .foregroundColor(.white)

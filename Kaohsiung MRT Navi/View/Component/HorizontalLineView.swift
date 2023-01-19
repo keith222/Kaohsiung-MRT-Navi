@@ -20,9 +20,11 @@ struct HorizontalLineView: View {
             Rectangle()
                 .fill(viewModel.color)
                 .frame(width: 16, height: 7)
+            
             Rectangle()
                 .fill(.clear)
                 .frame(width: 53, height: 55)
+            
             Rectangle()
                 .fill(viewModel.color)
                 .clipShape(Capsule())

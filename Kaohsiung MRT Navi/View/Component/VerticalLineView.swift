@@ -22,19 +22,23 @@ struct VerticalLineView: View {
                     .stroke(style: StrokeStyle(lineWidth: 7, dash: [2]))
                     .frame(maxWidth: 1, maxHeight: .infinity)
                     .foregroundColor(.circleLineColor)
+                
             } else {
                 Rectangle()
                     .fill(viewModel.isStart && !viewModel.isCircle ? .clear : viewModel.color)
                     .frame(maxWidth: 7, maxHeight: .infinity)
             }
+            
             Rectangle()
                 .fill(.clear)
                 .frame(width: 55, height: 41)
+            
             if viewModel.isTerminal && viewModel.isCircle {
                 DottedLine()
                     .stroke(style: StrokeStyle(lineWidth: 7, dash: [2]))
                     .frame(maxWidth: 1, maxHeight: .infinity)
                     .foregroundColor(.circleLineColor)
+                
             } else {
                 Rectangle()
                     .fill(viewModel.isTerminal && !viewModel.isCircle ? .clear : viewModel.color)

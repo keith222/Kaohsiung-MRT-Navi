@@ -10,37 +10,30 @@ import SwiftUI
 struct TabBarView: View {
     
     @State private var selection: Int = 0
-    
-    init() {
-        setTabBarAppearance()
-    }
-    
+ 
     var body: some View {
         TabView(selection: $selection) {
             Text("Home").tabItem {
-                Image(systemName: "house.fill")
+                Image(systemName: ImageConstant.house)
             }
+            
             Text("Search").tabItem {
-                Image(systemName: "magnifyingglass")
+                Image(systemName: ImageConstant.magnifyingglass)
             }
+            
             RouteListView().tabItem {
-                Image(systemName: "list.dash")
+                Image(systemName: ImageConstant.list)
             }
+            
             Text("Status").tabItem {
-                Image(systemName: "tram.fill")
+                Image(systemName: ImageConstant.tram)
             }
+            
             Text("Settings").tabItem {
-                Image(systemName: "slider.horizontal.3")
+                Image(systemName: ImageConstant.setting)
             }
-        }.accentColor(Color(.label))
-        
-    }
-    
-    private func setTabBarAppearance() {
-        let appearance = UITabBarAppearance()
-        appearance.backgroundColor = .systemBackground
-        UITabBar.appearance().scrollEdgeAppearance = appearance
-        UINavigationBar.appearance().tintColor = .secondaryLabel
+        }
+        .accentColor(Color(.label))
     }
 }
 

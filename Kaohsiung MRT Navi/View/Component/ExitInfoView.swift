@@ -22,6 +22,7 @@ struct ExitInfoView: View {
                 Text("\(StringConstant.exit)\(viewModel.exitNum)")
                     .foregroundColor(Color(.label))
                     .font(.system(.title3, weight: .semibold))
+                
                 VStack(alignment: .leading, spacing: 10) {
                     if viewModel.escalator.count > 0 || viewModel.categories.count > 0 || viewModel.hasElevator || viewModel.hasToilet {
                         HStack {
@@ -37,6 +38,7 @@ struct ExitInfoView: View {
                                             .stroke(Color(.label), lineWidth: 0.5)
                                     )
                             }
+                            
                             if viewModel.hasElevator {
                                 Image(ImageConstant.elevalator)
                                     .resizable()
@@ -49,6 +51,7 @@ struct ExitInfoView: View {
                                             .stroke(Color(.label), lineWidth: 0.5)
                                     )
                             }
+                            
                             if viewModel.hasToilet {
                                 Image(ImageConstant.toilet)
                                     .resizable()
@@ -61,16 +64,19 @@ struct ExitInfoView: View {
                                             .stroke(Color(.label), lineWidth: 0.5)
                                     )
                             }
+                            
                             ForEach(viewModel.categories, id: \.self) { category in
                                 if category == .lrt {
                                     Image(ImageConstant.circleLine)
                                         .resizable()
                                         .scaledToFill()
                                         .frame(width: 30, height: 30)
+                                    
                                 } else {
                                     Text(category.icon)
                                         .foregroundColor(Color(.label))
                                         .font(.custom("Taiwanicon-20",size: 25))
+                                        .clipped()
                                         .overlay(
                                             RoundedRectangle(cornerRadius: 5)
                                                 .stroke(Color(.label), lineWidth: 0.5)
@@ -86,15 +92,18 @@ struct ExitInfoView: View {
                         .font(.system(.title3))
                 }
             }
+            
             Divider()
                 .padding(.top, 7)
         }
     }
 }
 
+#if !TESTING
 struct ExitInfoView_Previews: PreviewProvider {
     static var previews: some View {
         let viewModel = ExitInfoViewModel(exitNum: 1, info: "Exit", categories: [.youbike, .tra, .thsr, .lrt], hasElevator: true, hasToilet: true, escalator: [.up, .down])
         ExitInfoView(with: viewModel)
     }
 }
+#endif
