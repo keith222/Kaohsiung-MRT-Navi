@@ -23,20 +23,25 @@ struct StationCell: View {
                     .scaledToFill()
                     .frame(width: 55, height: 55)
                     .background(.clear)
+                
                 VerticalLineView(with: viewModel.createVerticalLineViewModel())
+                
                 HorizontalLineView(with: viewModel.createHorizontalLineViewModel())
             }
             .frame(maxHeight: .infinity)
+            
             VStack(alignment: .leading, spacing: 0) {
                 Text(viewModel.stationName)
                     .foregroundColor(Color(.label))
                     .font(.system(size: 20, weight: .semibold ))
                     .multilineTextAlignment(.leading)
+                
                 Text(viewModel.stationSubName)
                     .foregroundColor(Color(.secondaryLabel))
                     .font(.system(size: 12, weight: .semibold ))
                     .multilineTextAlignment(.leading)
                     .padding(.top, 3)
+                
                 Divider()
                     .background(Color.subtitleColor)
                     .padding(.top, 15)
@@ -47,7 +52,7 @@ struct StationCell: View {
         }
         .fixedSize(horizontal: false, vertical: true)
         .padding(.trailing, 15)
-        .background(Color(.systemBackground))
+        .background(Color.backgroundColor)
     }
 }
 

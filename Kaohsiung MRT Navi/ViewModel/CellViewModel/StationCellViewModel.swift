@@ -40,14 +40,14 @@ struct StationCellViewModel: Hashable {
     }
             
     func checkIsIntersactionStation() -> Bool {
-        return stationNum.getIntersactionLine() != "n"
+        return stationNum.intersactionLine != "n"
     }
     
     func createVerticalLineViewModel() -> LineViewModel {
-        return LineViewModel(color: (stationNum.first ?? "n").lowercased().getLineColor(), isStart: checkIsStart(), isTerminal: checkIsTerminal(), isCircle: ((stationNum.first ?? "n").lowercased() == "c"))
+        return LineViewModel(color: (stationNum.first ?? "n").lowercased().lineColor, isStart: checkIsStart(), isTerminal: checkIsTerminal(), isCircle: ((stationNum.first ?? "n").lowercased() == "c"))
     }
     
     func createHorizontalLineViewModel() -> LineViewModel {
-        return LineViewModel(color: stationNum.getIntersactionLine().getLineColor(), isStart: false, isTerminal: false)
+        return LineViewModel(color: stationNum.intersactionLine.lineColor, isStart: false, isTerminal: false)
     }
 }
