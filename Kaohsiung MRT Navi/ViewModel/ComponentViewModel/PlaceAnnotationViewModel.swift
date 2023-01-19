@@ -19,7 +19,7 @@ struct PlaceAnnotationViewModel {
     }
     
     var color: Color {
-        return (stationNum.first ?? "n").lowercased().getLineColor()
+        return (stationNum.first ?? "n").lowercased().lineColor
     }
     
     var exitText: String {

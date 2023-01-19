@@ -22,8 +22,9 @@ struct PlaceAnnotationView: View {
                     .resizable()
                     .scaledToFill()
                     .frame(width: 40, height: 40)
-                    .background(Color(.systemBackground))
+                    .background(Color.backgroundColor)
                     .clipShape(Circle())
+                
             } else {
                 Text(viewModel.exitText)
                     .font(.footnote)
@@ -33,6 +34,7 @@ struct PlaceAnnotationView: View {
                     .background(viewModel.color)
                     .clipShape(Circle())
             }
+            
             Image(systemName: ImageConstant.arrowDown)
                 .font(.caption)
                 .foregroundColor(viewModel.color)
