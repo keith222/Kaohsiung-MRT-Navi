@@ -13,5 +13,5 @@ struct RouteCellViewModel: Hashable {
     let routeStartStation: String
     let routeTerminalStation: String
     let routeImageName: String
-    let routeKey: Route.CodingKeys
+    let routeKey: RouteLine
 }

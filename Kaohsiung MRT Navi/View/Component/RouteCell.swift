@@ -21,16 +21,20 @@ struct RouteCell: View {
                 .resizable()
                 .scaledToFill()
                 .frame(width: 32, height: 32)
+            
             VStack(alignment: .leading) {
                 Text(viewModel.routeName)
                     .foregroundColor(Color(.label))
                     .font(.system(size: 18, weight: .semibold ))
+                
                 Text("\(viewModel.routeStartStation) - \(viewModel.routeTerminalStation)")
                     .foregroundColor(.subtitleColor)
                     .font(.system(size: 12, weight: .semibold ))
             }
             .padding(.leading, 24)
+            
             Spacer()
+            
             Image(systemName: ImageConstant.chevronRight)
                 .frame(width: 10)
                 .foregroundColor(.arrowColor)
