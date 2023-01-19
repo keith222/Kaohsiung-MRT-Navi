@@ -7,7 +7,7 @@
 
 import Foundation
 
-class RouteService {
+final class RouteService {
     
     static let shared = RouteService()
     
