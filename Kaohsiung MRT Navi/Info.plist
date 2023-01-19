@@ -2,9 +2,35 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>API Service</key>
+	<dict>
+		<key>ClientID</key>
+		<string>${CLIENT_ID}</string>
+		<key>ClientSecret</key>
+		<string>${CLIENT_SECRET}</string>
+		<key>MRTMapURL</key>
+		<string>https://www.krtc.com.tw/Content/userfiles/images/@-406.png</string>
+		<key>TokenURL</key>
+		<string>https://tdx.transportdata.tw/auth/realms/TDXConnect/protocol/openid-connect/token</string>
+		<key>TDXAlertURL</key>
+		<string>https://tdx.transportdata.tw/api/basic/v2/Rail/Metro/Alert/@?%24format=JSON</string>
+		<key>TDXTimeURL</key>
+		<string>https://tdx.transportdata.tw/api/basic/v2/Rail/Metro/LiveBoard/@?%24format=JSON&amp;</string>
+	</dict>
 	<key>UIAppFonts</key>
 	<array>
 		<string>twicon.otf</string>
+	</array>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UISceneConfigurations</key>
+		<dict/>
+	</dict>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>location</string>
+		<string>remote-notification</string>
 	</array>
 </dict>
 </plist>
