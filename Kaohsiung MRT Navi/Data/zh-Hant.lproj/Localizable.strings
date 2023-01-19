@@ -47,3 +47,18 @@
 // Network status
 "alert" = "提示";
 "disconnectMessage" = "目前無網路連線，請確認您的網路環境。";
+
+// Network error description
+"invalidURL" = "無效的網址。";
+"invalidData" = "資料不正確。";
+"invalidResponse" = "網路回應錯誤。";
+"unexpectedStatusCode" = "未知的 Http 狀態碼";
+"pageNotFound" = "網頁不存在。";
+
+// MRT service status
+"inService" = "正常營運";
+"notYetStart" = "尚未發車";
+"noStop" = "交管不停靠";
+"lastTrainPassed" = "末班車已過";
+"notInService" = "今日未營運";
+"arriving" = "進站中";

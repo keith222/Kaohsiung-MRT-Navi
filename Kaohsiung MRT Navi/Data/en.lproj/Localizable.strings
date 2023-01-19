@@ -47,3 +47,18 @@
 // Network status
 "alert" = "Alert";
 "disconnectMessage" = "There is no network connection, please check your network environment.";
+
+// Network error description
+"invalidURL" = "Invalid URL";
+"invalidData" = "Invalid data.";
+"invalidResponse" = "Invalid response.";
+"unexpectedStatusCode" = "Unkown http status code.";
+"pageNotFound" = "Page is not found.";
+
+// MRT service status
+"inService" = "In Service";
+"notYetStart" = "Not Yet Started";
+"noStop" = "Not Stop";
+"lastTrainPassed" = "Last Train Has Passed";
+"notInService" = "Not In Service";
+"arriving" = "Arriving";

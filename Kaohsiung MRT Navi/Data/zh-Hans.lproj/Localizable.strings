@@ -47,3 +47,18 @@
 // Network status
 "alert" = "提示";
 "disconnectMessage" = "目前无网路连线，请确认您的网路环境。";
+
+// Network error description
+"invalidURL" = "无效的网址。";
+"invalidData" = "资料不正确。";
+"invalidResponse" = "网路回应错误。";
+"unexpectedStatusCode" = "未知的 Http 状态码";
+"pageNotFound" = "网页不存在。";
+
+// MRT service status
+"inService" = "正常营运";
+"notYetStart" = "尚未发车";
+"noStop" = "交管不停靠";
+"lastTrainPassed" = "末班车已过";
+"notInService" = "今日未营运";
+"arriving" = "进站中";

@@ -46,3 +46,18 @@
 // Network status
 "alert" = "通知";
 "disconnectMessage" = "現在ネットワークに接続されていません。ネットワーク環境を確認してください。";
+
+// Network error description
+"invalidURL" = "URL が無効です。";
+"invalidData" = "データが無効です。";
+"invalidResponse" = "HTTP レスポンスが無効です。";
+"unexpectedStatusCode" = "未知の HTTP ステータス コード。";
+"pageNotFound" = "ページが見つかりません。";
+
+// MRT service status
+"inService" = "運行中";
+"notYetStart" = "まだ出発していません";
+"noStop" = "この駅は停車しません";
+"lastTrainPassed" = "終電が通過しました";
+"notInService" = "運休";
+"arriving" = "電車がまいります";

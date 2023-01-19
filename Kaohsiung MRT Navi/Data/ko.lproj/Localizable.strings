@@ -46,3 +46,18 @@
 // Network status
 "alert" = "통지";
 "disconnectMessage" = "현재 네트워크 연결이 없습니다. 네트워크 환경을 확인하세요.";
+
+// Network error description
+"invalidURL" = "URL이 잘못되었습니다.";
+"invalidData" = "유효하지 않은 데이터.";
+"invalidResponse" = "잘못된 HTTP 응답입니다.";
+"unexpectedStatusCode" = "알려지지 않은 HTTP 상태 코드";
+"pageNotFound" = "페이지를 찾을 수 없습니다.";
+
+// MRT service status
+"inService" = "서비스 중";
+"notYetStart" = "아직 시작하지 않음";
+"noStop" = "멈추지 않는다";
+"lastTrainPassed" = "막차가 지나갔다";
+"notInService" = "서비스 중이 아님";
+"arriving" = "들어오고 있습니다";
